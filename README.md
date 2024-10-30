@@ -2,11 +2,11 @@
 
 ## Endpoints
 
-### GET /todos
+### `GET` /todos
 
 Returns a list of all todos.
 
-### POST /todos
+### `POST` /todos
 
 Creates a new todo.
 
@@ -19,7 +19,7 @@ Creates a new todo.
 }
 ```
 
-### PUT /todos/:id
+### `PUT` /todos/:id
 
 Updates a todo.
 
@@ -32,7 +32,7 @@ Updates a todo.
 }
 ```
 
-### DELETE /todos/:id
+### `DELETE` /todos/:id
 
 Deletes a todo.
 
